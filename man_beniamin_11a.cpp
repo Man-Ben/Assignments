@@ -7,7 +7,6 @@ int a, b, m, n, matrix[10][10], s = 0, k = 0, i, j, maximum = 0, v[10], ok = 0, 
 int main()
 {
    //========1. Feladat======
-   //Megoldás
    cin >> n;
 
    for(i = 0; i < n; i++)
@@ -29,7 +28,6 @@ int main()
       
    
    //========2. Feladat======
-   //Megoldás
    cin >> n >> m;
 
    for(i = 0; i < n; i++)
@@ -60,7 +58,6 @@ int main()
    
    
    //========3. Feladat======
-   //Megoldás
    
 
    cin >> n;
@@ -93,7 +90,6 @@ int main()
    
 
    //========4. Feladat======
-   //Megoldás
 
    ifstream f("bac.txt");
    maximum = 0;
